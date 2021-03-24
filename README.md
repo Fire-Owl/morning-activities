@@ -28,5 +28,6 @@
     - Exposé sur les UI KITS par Étienne
         - https://pad.nevers-libre.org/p/acs-dijon-23-03-2021
 - **24/03/2021 :** 
-    -  Ananlyse de site par Tiavina
+    -  Ananlyse de site par Tiavina, [Portfolio du web designer Sergio Ralandison](https://promo-42.codeur.online/portfolio)
+	- Exposé sur les formats d'image par Adrien 
         - https://pad.nevers-libre.org/p/acs-dijon-24-03-2021
