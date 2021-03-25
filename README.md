@@ -32,5 +32,5 @@
         - https://pad.nevers-libre.org/p/acs-dijon-24-03-2021
 - **25/03/2021 :**
     -  Analyse de site par Paule, [Portfolio du web designer Bruno Arizio](https://brunoarizio.com/)
-    - Exposé sur les logiciels libres par Gael
+    - Exposé sur les logiciels libres par Gaël
         - https://pad.nevers-libre.org/p/acs-dijon-25-03-2021   
