@@ -1,4 +1,3 @@
-# Activités du matin - ACS 
 
 ## Semaine 01
 - **15/03/2021 :** Démarrage de l'Access Code School Dijon, Designer Web, Promo 68 : « Fire Owl »
@@ -31,3 +30,7 @@
     -  Analyse de site par Tiavina, [Portfolio du web designer Sergio Ralandison](https://promo-42.codeur.online/portfolio)
 	- Exposé sur les formats d'image par Adrien 
         - https://pad.nevers-libre.org/p/acs-dijon-24-03-2021
+- **25/03/2021 :**
+    -  Analyse de site par Paule, [Portfolio du web designer Bruno Arizio](https://brunoarizio.com/)
+    - Exposé sur les logiciels libres par Gael
+        - https://pad.nevers-libre.org/p/acs-dijon-25-03-2021   
