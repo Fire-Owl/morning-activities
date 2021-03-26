@@ -37,6 +37,5 @@
 - **26/03/2021 :**
     - Analyse de site par Williams, [Covid Tracker par Guillaume Rozier](https://covidtracker.fr/)
         - [X] Atelier découverte [chart.js](https://www.chartjs.org/)
-    - Exposé sur les Licences Creative Commons par Sonia
+    - Exposé sur les licences Creative Commons par Sonia
         - https://pad.nevers-libre.org/p/acs-dijon-26-03-2021
-    
