@@ -39,3 +39,14 @@
         - [X] Atelier découverte [chart.js](https://www.chartjs.org/)
     - Exposé sur les licences Creative Commons par Sonia
         - https://pad.nevers-libre.org/p/acs-dijon-26-03-2021
+- **29/03/2021 :**
+	- Analyse de site par Adam, [Netflix](https://www.netflix.fr)
+	- Exposé par Tiavina sur la production de contenu web
+		- https://pad.nevers-libre.org/p/acs-dijon-29-03-2021
+- **30/03/2021 :**
+	- Analyse de site par Nicolas :
+		- [Bookink](https://www.booking.com)
+		- [Airbnb](https://www.airbnb.fr)
+	- Exposé par Jean-Baptiste sur la création de maquettes
+		- https://pad.nevers-libre.org/p/acs-dijon-30-03-2021
+
