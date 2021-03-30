@@ -45,7 +45,7 @@
 		- https://pad.nevers-libre.org/p/acs-dijon-29-03-2021
 - **30/03/2021 :**
 	- Analyse de site par Nicolas :
-		- [Bookink](https://www.booking.com)
+		- [Booking](https://www.booking.com)
 		- [Airbnb](https://www.airbnb.fr)
 	- Exposé par Jean-Baptiste sur la création de maquettes
 		- https://pad.nevers-libre.org/p/acs-dijon-30-03-2021
