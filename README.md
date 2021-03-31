@@ -39,6 +39,8 @@
         - [X] Atelier découverte [chart.js](https://www.chartjs.org/)
     - Exposé sur les licences Creative Commons par Sonia
         - https://pad.nevers-libre.org/p/acs-dijon-26-03-2021
+
+## Semaine 03
 - **29/03/2021 :**
 	- Analyse de site par Adam, [Netflix](https://www.netflix.fr)
 	- Exposé par Tiavina sur la production de contenu web
@@ -50,3 +52,10 @@
 	- Exposé par Jean-Baptiste sur la création de maquettes
 		- https://pad.nevers-libre.org/p/acs-dijon-30-03-2021
 
+- ** 31/03/2021 : **
+	- Présentation de site par Etienne :
+		- [newart.city](https://newart.city/show/dismal-sessions)
+                - [afterlife](http://afterlife.zone/ev20f1)
+	- Exposé par Romain sur les spécifications fonctionnelles
+		- https://pad.nevers-libre.org/p/acs-dijon-31-03-2021 
+		
