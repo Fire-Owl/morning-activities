@@ -52,10 +52,13 @@
 	- Exposé par Jean-Baptiste sur la création de maquettes
 		- https://pad.nevers-libre.org/p/acs-dijon-30-03-2021
 
-- ** 31/03/2021 : **
+- **31/03/2021 :**
 	- Présentation de site par Etienne :
 		- [newart.city](https://newart.city/show/dismal-sessions)
                 - [afterlife](http://afterlife.zone/ev20f1)
 	- Exposé par Romain sur les spécifications fonctionnelles
 		- https://pad.nevers-libre.org/p/acs-dijon-31-03-2021 
 		
+
+- **01/04/2021 :**
+        - Exposé par Karina et Luc sur les prototypes : https://pad.nevers-libre.org/p/acs-dijon-01-04-2021
