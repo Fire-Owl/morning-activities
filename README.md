@@ -62,3 +62,8 @@
 
 - **01/04/2021 :**
         - Exposé par Karina et Luc sur les prototypes : https://pad.nevers-libre.org/p/acs-dijon-01-04-2021
+
+- **02/04/2021 :**
+        - Exposé par Adrien sur la méthodologie BEM
+        - Présentation de site par Jean-Baptiste : [Cihad Turhan](http://cihadturhan.com/)
+            - https://pad.nevers-libre.org/p/acs-dijon-02-04-2021
