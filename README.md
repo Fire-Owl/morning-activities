@@ -67,3 +67,8 @@
         - Exposé par Adrien sur la méthodologie BEM
         - Présentation de site par Jean-Baptiste : [Cihad Turhan](http://cihadturhan.com/)
             - https://pad.nevers-libre.org/p/acs-dijon-02-04-2021
+
+- **06/04/2021 :**
+        - Exposé par Nicolas sur le passage en production : les protocoles de transfert de fichier SSH et FTP 
+        - Présentation de site par Gaël : [Stack Overflow](https://stackoverflow.com/)
+            - https://pad.nevers-libre.org/p/acs-dijon-06-04-2021
