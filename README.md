@@ -68,7 +68,26 @@
         - Présentation de site par Jean-Baptiste : [Cihad Turhan](http://cihadturhan.com/)
             - https://pad.nevers-libre.org/p/acs-dijon-02-04-2021
 
+## Semaine 04
 - **06/04/2021 :**
         - Exposé par Nicolas sur le passage en production : les protocoles de transfert de fichier SSH et FTP 
         - Présentation de site par Gaël : [Stack Overflow](https://stackoverflow.com/)
             - https://pad.nevers-libre.org/p/acs-dijon-06-04-2021
+
+- **07/04/2021 :**
+        - Présentation par Nicolas de la solution pour incrémenter des articles d'un panier d'achat en JS et calculer le prix de ces articles 
+        - Présentation de site par Sonia : 
+            -[Salemioche](http://www.salemioche.net/) 
+                    -[usepanda](https://usepanda.com/)
+            - https://pad.nevers-libre.org/p/acs-dijon-07-04-2021
+
+
+- **08/04/2021 :**
+        - Exposé par Hervé sur les protocoles : HTTP, HTTPS, POP3, SMTP, IMAP 
+        - Présentation d'application web par Romain : [Pokémon Showdown! battle simulator](https://pokemonshowdown.com/)
+            - https://pad.nevers-libre.org/p/acs-dijon-08-04-2021
+
+
+- **09/04/2021 :**
+        - Présentation de site par Gaël : [SMPDijon](http://smpdijon.fr/)
+            - https://pad.nevers-libre.org/p/acs-dijon-09-04-2021
