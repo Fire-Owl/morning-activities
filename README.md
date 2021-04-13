@@ -91,3 +91,9 @@
 - **09/04/2021 :**
         - Présentation de site par Gaël : [SMPDijon](http://smpdijon.fr/)
             - https://pad.nevers-libre.org/p/acs-dijon-09-04-2021
+- **12/04/2021 :**
+	- exposé par Chloe : javascript: les variables (const, let et var)
+	- présentation de site: sonia: 
+- **13/04/2021 :**
+	- exposé par Adrien: javascript, types de données
+	- présentation de site: Paule, 
