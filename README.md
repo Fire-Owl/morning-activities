@@ -93,8 +93,8 @@
 	- exposé par Romain : JavaScript : les opérateurs, la concaténation 
 	- présentation de site par Tiavina : [FreeCodeCamp](https://www.freecodecamp.org/learn)
 - **15/04/2021 :**
-        - exposé par Paule sur les opérations ternaire en Javascript
+        - exposé par Paule sur les opérations ternaire en Javascript  
         - présentation de site par Luc : [Degenesis](https://degenesis.com/)
 - **16/04/2021 :**
-        - exposé par Nicolas sur l'instruction Switch en Javascript
+        - exposé par Nicolas sur l'instruction Switch en Javascript  
         - présentation de site par Chloé : [Popcorngarage](https://www.popcorngarage.com/)
