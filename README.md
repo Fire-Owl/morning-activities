@@ -85,7 +85,7 @@
 ## Semaine 03
 - **12/04/2021 :**
 	- exposé par Chloe : Javascript: les variables (const, let et var)
-        - Présentation de site par Sonia : [Facebook](https://www.facebook.com/)
+	- Présentation de site par Sonia : [Facebook](https://www.facebook.com/)
 - **13/04/2021 :**
 	- exposé par Adrien : Javascript, types de données
 	- présentation de site Paule : [Norauto](https://www.norauto.fr/)
