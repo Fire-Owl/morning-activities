@@ -89,11 +89,20 @@
 
 
 - **09/04/2021 :**
-        - Présentation de site par Gaël : [SMPDijon](http://smpdijon.fr/)
+        - présentation de site par Gaël : [SMPDijon](http://smpdijon.fr/)
             - https://pad.nevers-libre.org/p/acs-dijon-09-04-2021
 - **12/04/2021 :**
-	- exposé par Chloe : javascript: les variables (const, let et var)
-	- présentation de site: sonia: 
+	- exposé par Chloe : Javascript: les variables (const, let et var)
+        - Présentation de site par Sonia : [Facebook](https://www.facebook.com/)
 - **13/04/2021 :**
-	- exposé par Adrien: javascript, types de données
-	- présentation de site: Paule, 
+	- exposé par Adrien : Javascript, types de données
+	- présentation de site Paule : [Norauto](https://www.norauto.fr/)
+- **14/04/2021 :**
+	- exposé par Romain : JavaScript : les opérateurs, la concaténation 
+	- présentation de site par Tiavina : [FreeCodeCamp](https://www.freecodecamp.org/learn)
+- **15/04/2021 :**
+        - exposé par Paule sur les opérations ternaire en Javascript
+        - présentation de site par Luc : [Degenesis](https://degenesis.com/)
+- **16/04/2021 :**
+        - exposé par Nicolas sur l'instruction Switch en Javascript
+        - présentation de site par Chloé : [Popcorngarage](https://www.popcorngarage.com/)
