@@ -1,4 +1,3 @@
-
 ## Semaine 01
 - **15/03/2021 :** Démarrage de l'Access Code School Dijon, Designer Web, Promo 68 : « Fire Owl »
 - **16/03/2021 :** 
@@ -51,18 +50,14 @@
 		- [Airbnb](https://www.airbnb.fr)
 	- Exposé par Jean-Baptiste sur la création de maquettes
 		- https://pad.nevers-libre.org/p/acs-dijon-30-03-2021
-
 - **31/03/2021 :**
 	- Présentation de site par Etienne :
 		- [newart.city](https://newart.city/show/dismal-sessions)
                 - [afterlife](http://afterlife.zone/ev20f1)
 	- Exposé par Romain sur les spécifications fonctionnelles
 		- https://pad.nevers-libre.org/p/acs-dijon-31-03-2021 
-		
-
 - **01/04/2021 :**
         - Exposé par Karina et Luc sur les prototypes : https://pad.nevers-libre.org/p/acs-dijon-01-04-2021
-
 - **02/04/2021 :**
         - Exposé par Adrien sur la méthodologie BEM
         - Présentation de site par Jean-Baptiste : [Cihad Turhan](http://cihadturhan.com/)
@@ -73,24 +68,21 @@
         - Exposé par Nicolas sur le passage en production : les protocoles de transfert de fichier SSH et FTP 
         - Présentation de site par Gaël : [Stack Overflow](https://stackoverflow.com/)
             - https://pad.nevers-libre.org/p/acs-dijon-06-04-2021
-
 - **07/04/2021 :**
         - Présentation par Nicolas de la solution pour incrémenter des articles d'un panier d'achat en JS et calculer le prix de ces articles 
         - Présentation de site par Sonia : 
             -[Salemioche](http://www.salemioche.net/) 
                     -[usepanda](https://usepanda.com/)
             - https://pad.nevers-libre.org/p/acs-dijon-07-04-2021
-
-
 - **08/04/2021 :**
         - Exposé par Hervé sur les protocoles : HTTP, HTTPS, POP3, SMTP, IMAP 
         - Présentation d'application web par Romain : [Pokémon Showdown! battle simulator](https://pokemonshowdown.com/)
             - https://pad.nevers-libre.org/p/acs-dijon-08-04-2021
-
-
 - **09/04/2021 :**
         - présentation de site par Gaël : [SMPDijon](http://smpdijon.fr/)
             - https://pad.nevers-libre.org/p/acs-dijon-09-04-2021
+
+## Semaine 03
 - **12/04/2021 :**
 	- exposé par Chloe : Javascript: les variables (const, let et var)
         - Présentation de site par Sonia : [Facebook](https://www.facebook.com/)
