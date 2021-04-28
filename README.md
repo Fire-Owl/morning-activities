@@ -110,7 +110,7 @@
 	- exposé par Nathan sur la portée des variables en Javascript  
 	- présentation de site par Chloé : [Vinium](https://vinium.com)
 - **22/04/2021 :**
-	- exposé par Gaêl sur les fonctions fléchées en Javascript  
+	- exposé par Gaël sur les fonctions fléchées en Javascript  
 	- présentation de site par Paule : [Adveris](https://www.adveris.fr/)
 - **23/04/2021 :**
 	- exposé par Karina sur les fonctions anonymes en Javascript  
@@ -124,7 +124,7 @@
 	- exposé par  Jean-Baptiste sur la création d'un objet littéral en JavaScript
 	- présentation de site par Hervé : [JSBin](http://jsbin.com/)
 - **28/04/2021 :**
-	- exposé par Chloé du JSON
+	- exposé par Chloé sur le JSON
 	- présentation de site par Etienne : [Currents Alpha](https://a.currents.fm/)
 - **29/04/2021 :**
 	- exposé par 
