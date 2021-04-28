@@ -82,7 +82,7 @@
         - présentation de site par Gaël : [SMPDijon](http://smpdijon.fr/)
             - https://pad.nevers-libre.org/p/acs-dijon-09-04-2021
 
-## Semaine 03
+## Semaine 05
 - **12/04/2021 :**
 	- exposé par Chloe : Javascript: les variables (const, let et var)
 	- Présentation de site par Sonia : [Facebook](https://www.facebook.com/)
@@ -98,3 +98,37 @@
 - **16/04/2021 :**
 	- exposé par Nicolas sur l'instruction Switch en Javascript  
 	- présentation de site par Chloé : [Popcorngarage](https://www.popcorngarage.com/)
+
+## Semaine 06
+- **19/04/2021 :**
+	- exposé par Williams sur les boucles en Javascript
+	- pas de présentation de site (soucis techniques)
+- **20/04/2021 :**
+	- exposé par Etienne sur les fonctions en Javascript  
+	- présentation de site par Jean-Baptiste : [Octopus](https://octopusconception.fr/)
+- **21/04/2021 :**
+	- exposé par Nathan sur la portée des variables en Javascript  
+	- présentation de site par Chloé : [Vinium](https://vinium.com)
+- **22/04/2021 :**
+	- exposé par Gaêl sur les fonctions fléchées en Javascript  
+	- présentation de site par Paule : [Adveris](https://www.adveris.fr/)
+- **23/04/2021 :**
+	- exposé par Karina sur les fonctions anonymes en Javascript  
+	- présentation de site par Boris : [LinkedIn](https://www.linkedin.com)
+
+## Semaine 07
+- **26/04/2021 :**
+	- exposé par Adrien sur la programmation orientée objet en Javascript
+	- présentation de site par Adam : [Reddit](https://www.reddit.com/)
+- **27/04/2021 :**
+	- exposé par  Jean-Baptiste sur la création d'un objet littéral en JavaScript
+	- présentation de site par Hervé : [JSBin](http://jsbin.com/)
+- **28/04/2021 :**
+	- exposé par Chloé du JSON
+	- présentation de site par Etienne : [Currents Alpha](https://a.currents.fm/)
+- **29/04/2021 :**
+	- exposé par 
+	- présentation de site par  : []()
+- **30/04/2021 :**
+	- exposé par 
+	- présentation de site par  : []()
