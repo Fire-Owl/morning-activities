@@ -127,8 +127,8 @@
 	- exposé par Chloé sur le JSON
 	- présentation de site par Etienne : [Currents Alpha](https://a.currents.fm/)
 - **29/04/2021 :**
-	- exposé par 
-	- présentation de site par  : []()
+	- exposé par Nicolas les prototypes en Javascript
+	- présentation de site par Tiavina : [The boat](https://www.sbs.com.au/theboat/?fbclid=IwAR2sxRpWYvPzKNUU-qLGfZSWyAApn8m6F-d2Us9Y02vOAr0VMXaN1pJxelw)
 - **30/04/2021 :**
 	- exposé par 
 	- présentation de site par  : []()
