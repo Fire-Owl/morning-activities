@@ -130,5 +130,22 @@
 	- exposé par Nicolas les prototypes en Javascript
 	- présentation de site par Tiavina : [The boat](https://www.sbs.com.au/theboat/?fbclid=IwAR2sxRpWYvPzKNUU-qLGfZSWyAApn8m6F-d2Us9Y02vOAr0VMXaN1pJxelw)
 - **30/04/2021 :**
-	- exposé par 
-	- présentation de site par  : []()
+	- exposé par Romain sur Javascript : les prototypes et l'héritage
+	- présentation de site par Williams : [The Fluffy Company](https://lafluffycompagnie.fr/)
+
+## Semaine 08
+- **03/04/2021 :**
+	- exposé par Gaël : annulé
+	- présentation de site par Adrien : [Castor et Pollux](https://www.castoretpollux.com/)
+- **04/04/2021 :**
+	- exposé par Adam sur l'accessibilité numérique : quels sont les handicaps qui impactent la navigation sur le web ?
+	- présentation de site par Nathan : [Bluegg](https://bluegg.co.uk/)
+- **05/04/2021 :**
+	- exposé par Nicolas sur l'accessibilité numérique : les probématiques et solutions en terme de design
+	- présentation de site par Paule : annulé
+- **06/04/2021 :**
+	- exposé par Etienne sur l'accessibilité numérique : les probématiques et solutions en terme de développement
+	- présentation de site par Sonia : [Orioz](https://orioz.fr/)
+- **07/04/2021 :**
+	- exposé par Romain sur l'accessibilité numérique : comment l'optimiser
+	- présentation de site par  Jean-Baptiste : [y-n10](https://y-n10.com/)
