@@ -134,18 +134,48 @@
 	- présentation de site par Williams : [The Fluffy Company](https://lafluffycompagnie.fr/)
 
 ## Semaine 08
-- **03/04/2021 :**
+- **03/05/2021 :**
 	- exposé par Gaël : annulé
 	- présentation de site par Adrien : [Castor et Pollux](https://www.castoretpollux.com/)
-- **04/04/2021 :**
+- **04/05/2021 :**
 	- exposé par Adam sur l'accessibilité numérique : quels sont les handicaps qui impactent la navigation sur le web ?
 	- présentation de site par Nathan : [Bluegg](https://bluegg.co.uk/)
-- **05/04/2021 :**
+- **05/05/2021 :**
 	- exposé par Nicolas sur l'accessibilité numérique : les probématiques et solutions en terme de design
 	- présentation de site par Paule : annulé
-- **06/04/2021 :**
+- **06/05/2021 :**
 	- exposé par Etienne sur l'accessibilité numérique : les probématiques et solutions en terme de développement
 	- présentation de site par Sonia : [Orioz](https://orioz.fr/)
-- **07/04/2021 :**
+- **07/05/2021 :**
 	- exposé par Romain sur l'accessibilité numérique : comment l'optimiser
 	- présentation de site par  Jean-Baptiste : [y-n10](https://y-n10.com/)
+
+## Semaine 09
+- **10/05/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **11/05/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **12/05/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+
+## Semaine 10
+- **17/05/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **18/05/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **19/05/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **20/05/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **21/05/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+
+
