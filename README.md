@@ -158,8 +158,8 @@
 	- exposé par Gaël sur le droit d'auteur et le copyright 
 	- présentation de site par Nathan : [Prometheus Fuels](https://www.prometheusfuels.com/)
 - **12/05/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Williams : absent
+	- présentation de site par Etienne : [The Deep Sea](https://neal.fun/deep-sea/)
 
 ## Semaine 10
 - **17/05/2021 :**
