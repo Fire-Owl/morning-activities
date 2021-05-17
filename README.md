@@ -163,7 +163,7 @@
 
 ## Semaine 10
 - **17/05/2021 :**
-	- exposé par ... sur 
+	- exposé par Williams sur la Google Search Console
 	- présentation de site par Adrien : [Simplébo](https://www.simplebo.fr/)
 - **18/05/2021 :**
 	- exposé par ... sur 
