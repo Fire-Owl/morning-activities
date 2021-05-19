@@ -166,11 +166,11 @@
 	- exposé par Williams sur la Google Search Console
 	- présentation de site par Adrien : [Simplébo](https://www.simplebo.fr/)
 - **18/05/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Adrien sur les Flexbox
+	- présentation de site par Sonia : [Google Interland](https://beinternetawesome.withgoogle.com/fr_all/interland) et [HKI.paris](http://hki.paris/home)
 - **19/05/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Jean-Baptiste sur les Media Queries
+	- présentation de site par Hervé : [Adam Widmanski](https://widman.ski/) et [Humaan](https://humaan.com/)
 - **20/05/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
