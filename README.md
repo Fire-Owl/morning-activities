@@ -172,8 +172,8 @@
 	- exposé par Jean-Baptiste sur les Media Queries
 	- présentation de site par Hervé : [Adam Widmanski](https://widman.ski/) et [Humaan](https://humaan.com/)
 - **20/05/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Romain sur les Grid en CSS
+	- présentation de site par Tiavina : [Andilana Beach Resort](https://andilanaresort.com/fr/)
 - **21/05/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
