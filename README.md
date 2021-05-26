@@ -183,8 +183,8 @@
 	- exposé par Luc sur le SASS et Live Sass Compiler
 	- présentation de site par Adam : [Elioz](https://www.elioz.fr/)
 - **26/05/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Nicolas sur le nesting en SASS.
+	- présentation de site par Gaël : [Liberogic](https://www.liberogic.jp/) [Don Guri](https://www.don-guri.com/)
 - **27/05/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
