@@ -186,8 +186,9 @@
 	- exposé par Nicolas sur le nesting en SASS.
 	- présentation de site par Gaël : [Liberogic](https://www.liberogic.jp/) & [Don Guri](https://www.don-guri.com/)
 - **27/05/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- Atelier sur SQK Workbench par la promotion de Besançon
+	- exposé par Tiavina sur les combinateurs et le SASS
+	- présentation de site par Mathieu : [MA True Cannabis](https://matruecannabis.com/fr)
 - **28/05/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
