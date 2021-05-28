@@ -190,8 +190,8 @@
 	- exposé par Tiavina sur les combinateurs et le SASS
 	- présentation de site par Mathieu : [MA True Cannabis](https://matruecannabis.com/fr)
 - **28/05/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Etienne sur les variables en SASS
+	- présentation de site par Chloé : [Visage du Rhône](https://www.visagesdurhone.com/)
 	- 
 ## Semaine 12
 - **31/05/2021 :**
