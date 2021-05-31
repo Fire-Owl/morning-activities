@@ -195,8 +195,8 @@
 	- 
 ## Semaine 12
 - **31/05/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Chloé sur les mixins en SASS
+	- présentation de site par Sonia : [Codeur.mag](https://www.codeur.com/blog/)
 - **01/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
