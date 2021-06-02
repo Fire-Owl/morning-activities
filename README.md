@@ -201,8 +201,8 @@
 	- exposé par Nathan sur les extentions en SASS
 	- présentation de site par : [The DNA project](https://jviewz.com/)
 - **02/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Adam sur les conditions dans SASS
+	- présentation de site par : [1 jour 1 dessin](https://1j1d.art/)
 - **03/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
