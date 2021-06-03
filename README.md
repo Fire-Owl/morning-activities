@@ -204,8 +204,8 @@
 	- pas d'exposé
 	- présentation de site par : [1 jour 1 dessin](https://1j1d.art/)
 - **03/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Adam sur les conditions en SASS
+	- présentation de site par Williams : [Le Figaro, Covid 19 : un vu=irus à l'assaut du monde](https://www.lefigaro.fr/fig-data/covid-19/)
 - **04/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
