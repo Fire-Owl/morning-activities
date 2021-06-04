@@ -207,8 +207,8 @@
 	- exposé par Adam sur les conditions en SASS
 	- présentation de site par Williams : [Le Figaro, Covid 19 : un vu=irus à l'assaut du monde](https://www.lefigaro.fr/fig-data/covid-19/)
 - **04/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- pas d'exposé
+	- présentation de site par Etienne : [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw)
 
 ## Semaine 13
 - **07/06/2021 :**
