@@ -212,8 +212,8 @@
 
 ## Semaine 13
 - **07/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- pas d'exposé
+	- présentation de site par : [Strava](https://www.strava.com/)
 - **08/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
