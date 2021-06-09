@@ -213,13 +213,13 @@
 ## Semaine 13
 - **07/06/2021 :**
 	- pas d'exposé
-	- présentation de site par : [Strava](https://www.strava.com/)
+	- présentation de site par Nicolas : [Strava](https://www.strava.com/)
 - **08/06/2021 :**
 	- pas d'exposé
-	- présentation de site par : [UmamiLand](https://umamiland.withgoogle.com/en) & [seoi.net](https://seoi.net/)
+	- présentation de site par Nathan : [UmamiLand](https://umamiland.withgoogle.com/en) & [seoi.net](https://seoi.net/)
 - **09/06/2021 :**
 	- pas d'exposé
-	- présentation de site par : [LastFM](https://www.last.fm/fr/)
+	- présentation de site par Gaël : [LastFM](https://www.last.fm/fr/)
 - **10/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
