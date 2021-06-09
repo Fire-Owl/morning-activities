@@ -218,8 +218,8 @@
 	- pas d'exposé
 	- présentation de site par : [UmamiLand](https://umamiland.withgoogle.com/en) & [seoi.net](https://seoi.net/)
 - **09/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- pas d'exposé
+	- présentation de site par : [LastFM](https://www.last.fm/fr/)
 - **10/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
