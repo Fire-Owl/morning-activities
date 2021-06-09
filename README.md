@@ -226,3 +226,37 @@
 - **11/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
+
+## Semaine 14
+- **14/06/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **15/06/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **16/06/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **17/06/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **18/06/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+
+## Semaine 15
+- **21/06/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **22/06/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **23/06/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **24/06/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
+- **25/06/2021 :**
+	- exposé par ... sur 
+	- présentation de site par : []()
