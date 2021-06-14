@@ -222,15 +222,14 @@
 	- présentation de site par Gaël : [LastFM](https://www.last.fm/fr/)
 - **10/06/2021 :**
 	- exposé par ... sur 
-	- présentation de site par : []()
+	- présentation de site par Adam : [Instant Gaming](https://www.instant-gaming.com/)
 - **11/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- pas de présentation de site, projet de Gwendoline toute la journée
 
 ## Semaine 14
 - **14/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Gaël sur une initiation à Wordpress
+	- présentation de site par Boris : [Plusieurs portfolio d'anciens stagiaires de l'ACS](https://pad.nevers-libre.org/p/acs-dijon-14-06-2021)
 - **15/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
@@ -241,8 +240,8 @@
 	- exposé par ... sur 
 	- présentation de site par : []()
 - **18/06/2021 :**
-	- exposé par ... sur 
 	- présentation de site par : []()
+	- pas d'exposé, projet de Gwendoline toute la journée
 
 ## Semaine 15
 - **21/06/2021 :**
