@@ -231,8 +231,8 @@
 	- exposé par Gaël sur une initiation à Wordpress
 	- présentation de site par Boris : [Plusieurs portfolio d'anciens stagiaires de l'ACS](https://pad.nevers-libre.org/p/acs-dijon-14-06-2021)
 - **15/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Williams sur la création d'un thème Wordpress
+	- présentation de site par Romain : [Kaggle](https://www.kaggle.com/)
 - **16/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
