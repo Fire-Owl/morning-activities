@@ -234,8 +234,8 @@
 	- exposé par Williams sur la création d'un thème Wordpress
 	- présentation de site par Romain : [Kaggle](https://www.kaggle.com/)
 - **16/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Boris avec Etienne sur le template hierarchy de Wordpress
+	- présentation de site par Sonia : [Colorion gradients button](https://gradientbuttons.colorion.co/)
 - **17/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
