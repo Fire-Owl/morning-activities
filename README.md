@@ -234,19 +234,19 @@
 	- exposé par Williams sur la création d'un thème Wordpress
 	- présentation de site par Romain : [Kaggle](https://www.kaggle.com/)
 - **16/06/2021 :**
-	- exposé par Boris avec Etienne sur le template hierarchy de Wordpress
-	- présentation de site par Sonia : [Colorion gradients button](https://gradientbuttons.colorion.co/)
+	- Structure d'un thème Wordpress avec Nicolas
+	- présentation de site par Jean-Baptiste : [Million Dollar Homepage](http://www.milliondollarhomepage.com/)
 - **17/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- exposé par Boris avec Etienne sur le template hierarchy de Wordpress
+	- présentation de site par Sonia : [Colorion gradients button](https://gradientbuttons.colorion.co/(
 - **18/06/2021 :**
-	- présentation de site par : []()
-	- pas d'exposé, projet de Gwendoline toute la journée
+	- présentation de site Hervé par : [byxp](https://www.byxp.co.uk/)
+	- Analyse de portfolios de designer web
 
 ## Semaine 15
 - **21/06/2021 :**
 	- exposé par ... sur 
-	- présentation de site par : []()
+	- présentation de site par Adam : [Twitch](https://www.twitch.tv/)
 - **22/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
