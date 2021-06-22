@@ -248,8 +248,8 @@
 	- exposé par ... sur 
 	- présentation de site par Adam : [Twitch](https://www.twitch.tv/)
 - **22/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- Atelier Wordpress 
+	- présentation de site par Tiavina : [Aristide Benoist](https://www.aristidebenoist.com/)
 - **23/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
