@@ -252,7 +252,7 @@
 	- présentation de site par Tiavina : [Aristide Benoist](https://www.aristidebenoist.com/)
 - **23/06/2021 :**
 	- exposé par ... sur 
-	- présentation de site par : []()
+	- présentation de site par Boris : Porfolio de développeur et web designer; [Mehdi Mougin](https://medhim.promo-45.codeur.online/portfolio/) [Nicolas Peter](https://nicolasp.promo-45.codeur.online/Portfolio/)
 - **24/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
