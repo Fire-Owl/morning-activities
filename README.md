@@ -238,7 +238,7 @@
 	- présentation de site par Jean-Baptiste : [Million Dollar Homepage](http://www.milliondollarhomepage.com/)
 - **17/06/2021 :**
 	- exposé par Boris avec Etienne sur le template hierarchy de Wordpress
-	- présentation de site par Sonia : [Colorion gradients button](https://gradientbuttons.colorion.co/(
+	- présentation de site par Sonia : (Colorion gradients button)[https://gradientbuttons.colorion.co/]
 - **18/06/2021 :**
 	- présentation de site Hervé par : [byxp](https://www.byxp.co.uk/)
 	- Analyse de portfolios de designer web
@@ -254,8 +254,8 @@
 	- exposé par ... sur 
 	- présentation de site par Boris : Porfolio de développeur et web designer; [Mehdi Mougin](https://medhim.promo-45.codeur.online/portfolio/) [Nicolas Peter](https://nicolasp.promo-45.codeur.online/Portfolio/)
 - **24/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- Atelier Wordpress 
+	- présentation de site par Nicolas : [Tesla](https://www.tesla.com/fr_fr), [Angell](https://angell.bike/fr-fr),  [AirSHifumi](https://airshifumi.hands.agency/)
 - **25/06/2021 :**
 	- exposé par ... sur 
 	- présentation de site par : []()
