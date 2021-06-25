@@ -251,11 +251,11 @@
 	- Atelier Wordpress 
 	- présentation de site par Tiavina : [Aristide Benoist](https://www.aristidebenoist.com/)
 - **23/06/2021 :**
-	- exposé par ... sur 
+	- Atelier Wordpress
 	- présentation de site par Boris : Porfolio de développeur et web designer; [Mehdi Mougin](https://medhim.promo-45.codeur.online/portfolio/) [Nicolas Peter](https://nicolasp.promo-45.codeur.online/Portfolio/)
 - **24/06/2021 :**
 	- Atelier Wordpress 
 	- présentation de site par Nicolas : [Tesla](https://www.tesla.com/fr_fr), [Angell](https://angell.bike/fr-fr),  [AirSHifumi](https://airshifumi.hands.agency/)
 - **25/06/2021 :**
-	- exposé par ... sur 
-	- présentation de site par : []()
+	- pas d'exposé
+	- présentation de site par Chloé: [Celia Lopez](http://www.celialopez.fr/) [Anthelme Dumont](https://anthelme.itch.io/) [Make me pulse](https://www.makemepulse.com/) [Mathias Biabiany](http://www.mathis-biabiany.fr/) [Lionel Durimel](https://durimel.io/nel) [Kevin Boudot](https://kevinboudot.dev/)
