@@ -259,3 +259,38 @@
 - **25/06/2021 :**
 	- pas d'exposé
 	- présentation de site par Chloé: [Celia Lopez](http://www.celialopez.fr/) [Anthelme Dumont](https://anthelme.itch.io/) [Make me pulse](https://www.makemepulse.com/) [Mathias Biabiany](http://www.mathis-biabiany.fr/) [Lionel Durimel](https://durimel.io/nel) [Kevin Boudot](https://kevinboudot.dev/)
+
+## Semaine 16
+- **28/06/2021 :**
+	- 
+	- présentation de site par : []()
+- **29/06/2021 :**
+	- 
+	- présentation de site par : []()
+- **30/06/2021 :**
+	- 
+	- présentation de site par : []()
+- **01/07/2021 :**
+	- 
+	- présentation de site par : []()
+- **02/07/2021 :**
+	- 
+	- présentation de site par : []()
+
+## Semaine 17
+- **05/07/2021 :**
+	- 
+	- présentation de site par Williams : [JoshWorld](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+- **06/07/2021 :**
+	- 
+	- présentation de site par : []()
+- **07/07/2021 :**
+	- 
+	- présentation de site par : []()
+- **08/07/2021 :**
+	- 
+	- présentation de site par : []()
+- **09/07/2021 :**
+	- 
+	- présentation de site par : []()
+
