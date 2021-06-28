@@ -279,7 +279,7 @@
 
 ## Semaine 17
 - **05/07/2021 :**
-	- 
+	- présentation de portfolio : [Anthony Chatelot](https://anthonyc541.promo-45.codeur.online/portfolio/)
 	- présentation de site par Williams : [JoshWorld](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 - **06/07/2021 :**
 	- 
