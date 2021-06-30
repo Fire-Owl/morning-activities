@@ -269,7 +269,7 @@
 	- présentation de site par Chloé : [Belles plantes ayurveda](https://belles-plantes-ayurveda.fr/)
 - **30/06/2021 :**
 	- 
-	- présentation de site par Etienne : [slt Camille](https://sltcamille.com/)
+	- présentation de site par Etienne : [Camille Soulat](https://sltcamille.com/)
 - **01/07/2021 :**
 	- 
 	- présentation de site par : []()
