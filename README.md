@@ -262,14 +262,14 @@
 
 ## Semaine 16
 - **28/06/2021 :**
-	- 
-	- présentation de site par : []()
+	- présentation de portfolio : [Anthony Chatelot](https://anthonyc541.promo-45.codeur.online/portfolio/)
+	- présentation de site par Williams : [JoshWorld](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 - **29/06/2021 :**
-	- 
-	- présentation de site par : []()
+	- Atelier PHP
+	- présentation de site par Chloé : [Belles plantes ayurveda](https://belles-plantes-ayurveda.fr/)
 - **30/06/2021 :**
 	- 
-	- présentation de site par : []()
+	- présentation de site par Etienne : [slt Camille](https://sltcamille.com/)
 - **01/07/2021 :**
 	- 
 	- présentation de site par : []()
@@ -279,8 +279,8 @@
 
 ## Semaine 17
 - **05/07/2021 :**
-	- présentation de portfolio : [Anthony Chatelot](https://anthonyc541.promo-45.codeur.online/portfolio/)
-	- présentation de site par Williams : [JoshWorld](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+	- 
+	- présentation de site par : []()
 - **06/07/2021 :**
 	- 
 	- présentation de site par : []()
