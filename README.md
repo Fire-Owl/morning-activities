@@ -271,11 +271,9 @@
 	- 
 	- présentation de site par Etienne : [Camille Soulat](https://sltcamille.com/)
 - **01/07/2021 :**
-	- 
 	- présentation de site par Jean-Baptiste: [Aquarium](https://www.aquarium.ru/en)
 - **02/07/2021 :**
-	- 
-	- présentation de site par : []()
+	- présentation de site par : [Lusion](https://lusion.co/) et [OSR.org](https://osr.org/oms/Lacaille%209352/)
 
 ## Semaine 17
 - **05/07/2021 :**
