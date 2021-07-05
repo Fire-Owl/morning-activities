@@ -277,7 +277,7 @@
 ## Semaine 17
 - **05/07/2021 :**
 	- 
-	- présentation de site par : []()
+	- présentation de site par Romain : [Gens de Confiance](https://gensdeconfiance.com/fr)
 - **06/07/2021 :**
 	- 
 	- présentation de site par : []()
@@ -291,3 +291,19 @@
 	- 
 	- présentation de site par : []()
 
+## Semaine 18
+- **12/07/2021 :**
+	- 
+	- présentation de site par : []()
+- **13/07/2021 :**
+	- 
+	- présentation de site par : []()
+- **14/07/2021 :**
+	- 
+	- présentation de site par : []()
+- **15/07/2021 :**
+	- 
+	- présentation de site par : []()
+- **16/07/2021 :**
+	- 
+	- présentation de site par : []()
