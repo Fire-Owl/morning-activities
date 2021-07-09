@@ -289,7 +289,7 @@
 	- présentation de site par Sonia: [Front Codes](https://front.codes/)
 - **09/07/2021 :**
 	- 
-	- présentation de site par : []()
+	- présentation de site par Adam : [Pilot'in](https://www.pilot-in.com/) [Bibliothèque Masonry](https://masonry.desandro.com/)
 
 ## Semaine 18
 - **12/07/2021 :**
