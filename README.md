@@ -294,10 +294,10 @@
 ## Semaine 18
 - **12/07/2021 :**
 	- 
-	- présentation de site par : []()
+	- pas de présentation de site
 - **13/07/2021 :**
 	- 
-	- présentation de site par : []()
+	- présentation de site par Nathan : [Ultranoir](https://www.ultranoir.com/)
 - **14/07/2021 :**
 	- 
 	- présentation de site par : []()
