@@ -292,18 +292,23 @@
 	- présentation de site par Adam : [Pilot'in](https://www.pilot-in.com/) [Bibliothèque Masonry](https://masonry.desandro.com/)
 
 ## Semaine 18
-- **12/07/2021 :**
-	- 
+- **12/07/2021 :** 
 	- pas de présentation de site
 - **13/07/2021 :**
-	- 
 	- présentation de site par Nathan : [Ultranoir](https://www.ultranoir.com/), [Matteo Kocken](https://portfolio.matteokocken.fr/), [two.js](https://two.js.org/examples/), [particle.js](https://vincentgarreau.com/particles.js/), [vanta.js](https://www.vantajs.com/?effect=net)
-- **14/07/2021 :**
-	- 
-	- présentation de site par : []()
 - **15/07/2021 :**
-	- 
-	- présentation de site par : []()
+	- présentation de site par Williams : [Doctolib](https://www.doctolib.fr/)
 - **16/07/2021 :**
-	- 
+	- présentation de site par Tiavina: [Scrimba](https://scrimba.com/)
+
+## Semaine 19
+- **19/07/2021 :**
+	- présentation de site par : []()
+- **20/07/2021 :**
+	- présentation de site par : []()
+- **21/07/2021 :**
+	- présentation de site par : []()
+- **22/07/2021 :**
+	- présentation de site par : []()
+- **23/07/2021 :**
 	- présentation de site par : []()
