@@ -312,3 +312,27 @@
 	- présentation de site par : []()
 - **23/07/2021 :**
 	- présentation de site par : []()
+
+## Semaine 20
+- **26/07/2021 :**
+	- présentation de site par : []()
+- **27/07/2021 :**
+	- présentation de site par : []()
+- **28/07/2021 :**
+	- présentation de site par : []()
+- **29/07/2021 :**
+	- présentation de site par : []()
+- **30/07/2021 :**
+	- présentation de site par : []()
+
+## Semaine 21
+- **02/08/2021 :**
+	- présentation de site par : []()
+- **03/08/2021 :**
+	- présentation de site par : []()
+- **04/08/2021 :**
+	- présentation de site par : []()
+- **05/08/2021 :**
+	- présentation de site par : []()
+- **06/08/2021 :**
+	- présentation de site par : []()
