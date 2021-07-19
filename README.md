@@ -303,7 +303,7 @@
 
 ## Semaine 19
 - **19/07/2021 :**
-	- présentation de site par : []()
+	- atelier lignes de commande
 - **20/07/2021 :**
 	- présentation de site par : []()
 - **21/07/2021 :**
