@@ -305,7 +305,7 @@
 - **19/07/2021 :**
 	- atelier lignes de commande
 - **20/07/2021 :**
-	- présentation de site par Jean-Baptiste : [Dakumisu](https://www.dakumisu.fr/)
+	- présentation de site par Jean-Baptiste : [Dakumisu](https://www.dakumisu.fr/) [Paper.js](http://paperjs.org/)
 - **21/07/2021 :**
 	- présentation de site par : []()
 - **22/07/2021 :**
