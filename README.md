@@ -307,7 +307,7 @@
 - **20/07/2021 :**
 	- présentation de site par Jean-Baptiste : [Dakumisu](https://www.dakumisu.fr/) [Paper.js](http://paperjs.org/)
 - **21/07/2021 :**
-	- présentation de site par : []()
+	- présentation de site par Etienne : [Berghain Trainer](https://berghaintrainer.com/)
 - **22/07/2021 :**
 	- présentation de site par : []()
 - **23/07/2021 :**
