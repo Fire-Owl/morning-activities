@@ -309,9 +309,9 @@
 - **21/07/2021 :**
 	- présentation de site par Etienne : [Berghain Trainer](https://berghaintrainer.com/)
 - **22/07/2021 :**
-	- présentation de site par : []()
+	- présentation de site par Hervé : [Eemove BG](https://www.remove.bg/fr)
 - **23/07/2021 :**
-	- présentation de site par : []()
+	- présentation de site par Adrien : [Neal.fun](https://neal.fun/)
 
 ## Semaine 20
 - **26/07/2021 :**
