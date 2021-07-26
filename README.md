@@ -315,7 +315,7 @@
 
 ## Semaine 20
 - **26/07/2021 :**
-	- présentation de site par : []()
+	- présentation de site par Boris : [Portfolio de Thomas Sanlis](https://thomas-sanlis.com/)
 - **27/07/2021 :**
 	- présentation de site par : []()
 - **28/07/2021 :**
