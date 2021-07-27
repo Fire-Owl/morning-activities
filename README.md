@@ -317,7 +317,7 @@
 - **26/07/2021 :**
 	- présentation de site par Boris : [Portfolio de Thomas Sanlis](https://thomas-sanlis.com/)
 - **27/07/2021 :**
-	- présentation de site par : []()
+	- présentation de site par Jean-Baptiste : [Oxygen Caps](https://oxygenecaps.fr/)
 - **28/07/2021 :**
 	- présentation de site par : []()
 - **29/07/2021 :**
