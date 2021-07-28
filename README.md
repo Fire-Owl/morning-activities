@@ -319,7 +319,7 @@
 - **27/07/2021 :**
 	- présentation de site par Jean-Baptiste : [Oxygen Caps](https://oxygenecaps.fr/) & [CBD caps](https://cbdcaps.fr/)
 - **28/07/2021 :**
-	- présentation de site par : []()
+	- présentation de site par Sonia : [Bâti Coop](http://baticoop.pro/)
 - **29/07/2021 :**
 	- présentation de site par : []()
 - **30/07/2021 :**
