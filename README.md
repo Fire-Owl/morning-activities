@@ -326,13 +326,13 @@
 	- présentation de site par Tiavina : [Anooki](https://www.anooki.com/)
 
 ## Semaine 21
-- **02/08/2021 :**
+- **16/08/2021 :**
+	- présentation de site par Luc : [GoodMeat](https://goodmeat.co/)
+- **17/08/2021 :**
 	- présentation de site par : []()
-- **03/08/2021 :**
+- **18/08/2021 :**
 	- présentation de site par : []()
-- **04/08/2021 :**
+- **19/08/2021 :**
 	- présentation de site par : []()
-- **05/08/2021 :**
-	- présentation de site par : []()
-- **06/08/2021 :**
+- **20/08/2021 :**
 	- présentation de site par : []()
