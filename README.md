@@ -329,7 +329,7 @@
 - **16/08/2021 :**
 	- présentation de site par Luc : [GoodMeat](https://goodmeat.co/)
 - **17/08/2021 :**
-	- présentation de site par : []()
+	- présentation de site par : [Pixact.ly](https://www.pixact.ly/), [It's centred that](https://www.supremo.co.uk/designers-eye/), [Can't unsee](https://cantunsee.space/)
 - **18/08/2021 :**
 	- présentation de site par : []()
 - **19/08/2021 :**
