@@ -331,7 +331,7 @@
 - **17/08/2021 :**
 	- présentation de site par Nicolas : [Pixact.ly](https://www.pixact.ly/), [It's centred that](https://www.supremo.co.uk/designers-eye/), [Can't unsee](https://cantunsee.space/)
 - **18/08/2021 :**
-	- présentation de site par : []()
+	- présentation de site par Solange-Harmonie : [Pôle Emploi](https://www.pole-emploi.fr/accueil/), [Emploi Store](https://www.emploi-store.fr/portail/accueil)
 - **19/08/2021 :**
 	- présentation de site par : []()
 - **20/08/2021 :**
