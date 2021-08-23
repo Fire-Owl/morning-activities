@@ -336,3 +336,7 @@
 	- présentation de site par : []()
 - **20/08/2021 :**
 	- présentation de site par : []()
+	
+## Semaine 22
+- **23/08/2021 :**
+	- présentation de site par Williams : [Bayard](https://www.bayard-homme.fr/)
