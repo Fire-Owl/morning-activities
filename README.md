@@ -340,3 +340,5 @@
 ## Semaine 22
 - **23/08/2021 :**
 	- présentation de site par Williams : [Bayard](https://www.bayard-homme.fr/)
+- **27/08/2021 :**
+	- présentation de site par Adam : [Adapte mon web](https://adaptemonweb.fr/)
