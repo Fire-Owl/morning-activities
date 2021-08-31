@@ -333,7 +333,7 @@
 - **18/08/2021 :**
 	- présentation de site par Solange-Harmonie : [Pôle Emploi](https://www.pole-emploi.fr/accueil/), [Emploi Store](https://www.emploi-store.fr/portail/accueil)
 - **19/08/2021 :**
-	- présentation de site par Karina : []()
+	- présentation de site par Karina : [Scale of the universe](https://htwins.net/scale2/)
 - **20/08/2021 :**
 	- présentation de site par Adrien : [Mastodon](https://mastodon.social/about)
 	
