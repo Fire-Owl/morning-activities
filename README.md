@@ -333,20 +333,31 @@
 - **18/08/2021 :**
 	- présentation de site par Solange-Harmonie : [Pôle Emploi](https://www.pole-emploi.fr/accueil/), [Emploi Store](https://www.emploi-store.fr/portail/accueil)
 - **19/08/2021 :**
-	- présentation de site par : []()
+	- présentation de site par Karina : []()
 - **20/08/2021 :**
-	- présentation de site par : []()
+	- présentation de site par Adrien : [Mastodon](https://mastodon.social/about)
 	
 ## Semaine 22
 - **23/08/2021 :**
 	- présentation de site par Williams : [Bayard](https://www.bayard-homme.fr/)
 - **24/08/2021 :**
-	- présentation de site par Adam : [Adapte mon web](https://adaptemonweb.fr/)
+	- présentation de site par Hervé : [Grid LayoutIt](https://grid.layoutit.com/)
 - **25/08/2021 :**
-	- présentation de site par Williams : [Bayard](https://www.bayard-homme.fr/)
+	- présentation de site par Jean-Baptiste : [Immersions digitales](http://immersions-digitales.fr/)
 - **26/08/2021 :**
-	- présentation de site par Adam : [Adapte mon web](https://adaptemonweb.fr/)
+	- présentation de site par par Etienne : [Air Force Echo](https://airforceecho.com/), [Submarine cable map](https://www.submarinecablemap.com/), [Stuffin.space](http://stuffin.space/), [Cyber threat map](https://www.fireeye.com/cyber-map/threat-map.html) & [](https://www.imperva.com/cyber-threat-attack-map/)
 - **27/08/2021 :**
 	- présentation de site par Adam : [Adapte mon web](https://adaptemonweb.fr/)
 
+## Semaine 23
+- **30/08/2021 :**
+	- présentation de site par par Adrien : [FC Remilly.org](https://fcremilly.org/)
+- **31/08/2021 :**
+	- présentation de site par par Nathan : [Capsul'in Zero Impact](https://www.capsul-in-pro.com/home-compost-capsule/) et [Miss Cookies](https://www.misscookies.com/)
+- **01/08/2021 :**
+	- présentation de site par par  : []()
+- **02/08/2021 :**
+	- présentation de site par par  : []()
+- **03/08/2021 :**
+	- présentation de site par par  : []()
 
