@@ -355,7 +355,7 @@
 - **31/08/2021 :**
 	- présentation de site par par Nathan : [Capsul'in Zero Impact](https://www.capsul-in-pro.com/home-compost-capsule/) et [Miss Cookies](https://www.misscookies.com/)
 - **01/08/2021 :**
-	- présentation de site par par  : []()
+	- présentation de site par par Tiavina : [TalTech](https://taltech.ee/en) & [Popitas](https://www.popitas.com/)
 - **02/08/2021 :**
 	- présentation de site par par  : []()
 - **03/08/2021 :**
