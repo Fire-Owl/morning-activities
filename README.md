@@ -357,7 +357,7 @@
 - **01/08/2021 :**
 	- présentation de site par par Tiavina : [TalTech](https://taltech.ee/en) & [Popitas](https://www.popitas.com/)
 - **02/08/2021 :**
-	- présentation de site par par  : []()
+	- présentation de site par par Williams : [Spotify](https://www.spotify.com/fr/)
 - **03/08/2021 :**
 	- présentation de site par par  : []()
 
