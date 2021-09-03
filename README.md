@@ -359,5 +359,4 @@
 - **02/08/2021 :**
 	- présentation de site par par Williams : [Spotify](https://www.spotify.com/fr/)
 - **03/08/2021 :**
-	- présentation de site par par  : []()
-
+	- présentation de site par par Adam : [Zoomquilt](http://zoomquilt2.com/), [PointerPointer](https://pointerpointer.com/) & [Emmit Fenn](https://farfromhere.emmitfenn.com/)
